@@ -1,0 +1,19 @@
+/*
+Theme Name: Hojreh
+Theme URI: https://example.com/hojreh
+Author: Hamed
+Author URI: https://example.com
+Description: قالب مینیمال، راست‌چین و پرسرعت ووکامرس با تیلویند، حالت تیره، سبد خرید شناور و کارت‌های محصول متنوع. بدون صفحه‌ساز.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 7.1
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: hojreh
+Tags: e-commerce, rtl-language-support, custom-colors, custom-logo, custom-menu, featured-images, translation-ready, block-styles, wide-blocks
+WC requires at least: 8.0
+WC tested up to: 11.2
+*/
+
+/* Compiled styles live in assets/dist/app.css and are enqueued by functions.php. */

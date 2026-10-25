@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+wp-data
+*.log
+/screenshots/
+test-results
+.pnpm-store
